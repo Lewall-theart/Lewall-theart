@@ -1,21 +1,56 @@
-# 💫 About Me:
-🤝 I’m looking for help with Pentester path<br>🌱 I’m currently learning 'bout Cyber Security Engineer<br>💬 Ask me about Networking<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20There&animation=fadeIn&type=cylinder&color=auto&height=100&fontSize=50&fontAlignY=65&theme=tokyonight"/>
+</p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Le Lam Tuong) 
+<h2>&nbsp;About me</h2>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+```yaml
+name: Le Tuong
+
+education:
+    - "Currently pursuing a Bachelor's"
+    - "Class of 2025"
+
+skills:
+    - "Automation Scripting w Python"
+    - "Networking"
+
+interests:
+    - "Automation scripting"
+    - "Cybersecurity"
+
+hobbies:
+    - "Learning new things"
+    - "Reading"
+    - "Movies"
+    - "Gaming"
+```
+
+---
+
+<h2>&nbsp;Some Stuff I've Learned</h2>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+</p>
+
+---
+<h2>&nbsp;Reach out to me</h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:lewallzzz1005@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nam-nguyen-binh](https://www.linkedin.com/in/le-lam-tuong-335484259/))
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lewall-theart&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lewall-theart&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewall-theart&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Lewall-theart&icon=2&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+[![Readme Quotes](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/hackelite01/github-readme-cyber-quotes)
