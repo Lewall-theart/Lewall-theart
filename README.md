@@ -42,7 +42,7 @@ hobbies:
 ---
 <h2>&nbsp;Reach out to me</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:lewallzzz1005@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nam-nguyen-binh](https://www.linkedin.com/in/le-lam-tuong-335484259/))
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:lltuongg@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nam-nguyen-binh](https://www.linkedin.com/in/le-lam-tuong-335484259/))
 
 ---
 # 📊 GitHub Stats:
