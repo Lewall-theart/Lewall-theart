@@ -20,6 +20,7 @@ skills:
 interests:
     - "Automation scripting"
     - "Cybersecurity"
+    - "Learning Japanese"
 
 hobbies:
     - "Learning new things"
