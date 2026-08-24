@@ -25,25 +25,48 @@
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════════ -->
 <h2 align="center">✦ About Me ✦</h2>
 
-```yaml
-name:       "Le Tuong"
-education:  "Bachelor's — Class of 2025"
-role:       "DevSecOps · Automation · Security"
+<p align="center"><i>“Security isn't a feature — it's the foundation.” ☄️</i></p>
 
-focus:
-  - "Shift-left security & secure pipelines"
-  - "Automation scripting with Python"
-  - "Networking & offensive security"
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-interests:
-  - "CI/CD security & IaC hardening"
-  - "Container & cloud security"
-  - "Learning Japanese"
+### こんにちは! 👋 &nbsp;I'm **Le Tuong**
 
-hobbies:
-  - "Learning new things"
-  - "Reading · Movies · Gaming"
+A **Class of 2025** grad shifting left into **DevSecOps** —
+where automation, networking, and security meet under one starry sky.
+
+```diff
++ 🛡️  Baking security into every stage of the pipeline
++ 🐍  Automating the boring (and the dangerous) with Python
++ 🌐  Deep into networking & offensive security
++ 🌱  Leveling up: SAST/DAST · IaC hardening
++ 🇯🇵  Learning 日本語, one kanji at a time
++ 🎧  Powered by Hoshimachi Suisei on loop
 ```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROLE-DevSecOps%20Engineer-1e40af?style=for-the-badge&labelColor=0b1e4d" alt="role"/>
+<br/>
+<img src="https://img.shields.io/badge/FOCUS-Secure%20CI%2FCD-22d3ee?style=for-the-badge&labelColor=0b1e4d" alt="focus"/>
+<br/>
+<img src="https://img.shields.io/badge/GRAD-Class%20of%202025-38bdf8?style=for-the-badge&labelColor=0b1e4d" alt="grad"/>
+<br/>
+<img src="https://img.shields.io/badge/LEARNING-%E6%97%A5%E6%9C%AC%E8%AA%9E-e11d48?style=for-the-badge&labelColor=0b1e4d" alt="learning"/>
+<br/>
+<img src="https://img.shields.io/badge/OSHI-Suisei%20%E2%98%85-06b6d4?style=for-the-badge&labelColor=0b1e4d" alt="oshi"/>
+
+<br/><br/>
+
+<sub>🌙 Reading · Movies · Gaming · always learning</sub>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════ NOW PLAYING ════════════════════════════════ -->
 <h2 align="center">☆ Now / Currently ☆</h2>
