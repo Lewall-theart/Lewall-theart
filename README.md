@@ -20,8 +20,8 @@
   <img src="https://komarev.com/ghpvc/?username=Lewall-theart&style=for-the-badge&color=1e40af&label=VIEWS" alt="profile views"/>
 </p>
 
-<!-- ─────────── animated divider ─────────── -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f59-4d61-8f06-b567e9c0ae72.gif" alt="divider"/>
+<!-- ─────────── divider ─────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e4d,50:22d3ee,100:e11d48&height=4&section=header" alt="divider"/>
 
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════════ -->
 <h2 align="center">✦ About Me ✦</h2>
@@ -62,8 +62,8 @@ where automation, networking, and security meet under one starry sky.
 </tr>
 </table>
 
-<!-- ─────────── animated divider ─────────── -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f59-4d61-8f06-b567e9c0ae72.gif" alt="divider"/>
+<!-- ─────────── divider ─────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e4d,50:22d3ee,100:e11d48&height=4&section=header" alt="divider"/>
 
 <!-- ═══════════════════════════════ TECH ARSENAL ═══════════════════════════════ -->
 <h2 align="center">⚙️ Tech Arsenal</h2>
@@ -80,19 +80,20 @@ where automation, networking, and security meet under one starry sky.
 
 <p align="center"><b>Security · Monitoring</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,prometheus,grafana,vault,git,github&theme=dark" alt="security"/>
+  <img src="https://skillicons.dev/icons?i=kali,prometheus,grafana,git,github&theme=dark" alt="security"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0b1e4d" alt="Burp"/>
   <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=0b1e4d" alt="ZAP"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0b1e4d" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white&labelColor=0b1e4d" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white&labelColor=0b1e4d" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white&labelColor=0b1e4d" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white&labelColor=0b1e4d" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black&labelColor=0b1e4d" alt="Vault"/>
 </p>
 
-<!-- ─────────── animated divider ─────────── -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f59-4d61-8f06-b567e9c0ae72.gif" alt="divider"/>
+<!-- ─────────── divider ─────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e4d,50:22d3ee,100:e11d48&height=4&section=header" alt="divider"/>
 
 <!-- ═══════════════════════════════ NOW PLAYING ════════════════════════════════ -->
 <h2 align="center">☆ Now / Currently ☆</h2>
@@ -116,24 +117,20 @@ where automation, networking, and security meet under one starry sky.
   </tr>
 </table>
 
-<!-- ─────────── animated divider ─────────── -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f59-4d61-8f06-b567e9c0ae72.gif" alt="divider"/>
+<!-- ─────────── divider ─────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e4d,50:22d3ee,100:e11d48&height=4&section=header" alt="divider"/>
 
 <!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
 <h2 align="center">☆ GitHub Stats ☆</h2>
 
+<!-- stats + top-langs + snake are generated daily by .github/workflows/profile-cards.yml -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lewall-theart&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1e4d&title_color=22d3ee&icon_color=38bdf8" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lewall-theart&theme=tokyonight&hide_border=true&background=0b1e4d&ring=22d3ee&fire=e11d48&currStreakLabel=38bdf8" alt="streak"/>
+  <img height="165" src="./profile/stats.svg" alt="stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Lewall-theart&theme=tokyonight&hide_border=true&background=0b1e4d&ring=22d3ee&fire=e11d48&currStreakLabel=38bdf8" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewall-theart&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0b1e4d&title_color=22d3ee&langs_count=8" alt="top langs"/>
-</p>
-
-<!-- animated contribution area graph -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lewall-theart&bg_color=0b1e4d&color=22d3ee&line=e11d48&point=ffffff&area_color=1e40af&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img height="165" src="./profile/top-langs.svg" alt="top langs"/>
 </p>
 
 <!-- summary cards -->
@@ -144,16 +141,16 @@ where automation, networking, and security meet under one starry sky.
 
 <!-- trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lewall-theart&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Lewall-theart&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
 <!-- snake -->
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Lewall-theart/Lewall-theart/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img width="98%" src="./profile/snake-dark.svg" alt="snake animation"/>
 </p>
 
-<!-- ─────────── animated divider ─────────── -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3f59-4d61-8f06-b567e9c0ae72.gif" alt="divider"/>
+<!-- ─────────── divider ─────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e4d,50:22d3ee,100:e11d48&height=4&section=header" alt="divider"/>
 
 <!-- ═══════════════════════════════ QUOTE ══════════════════════════════════════ -->
 <h2 align="center">✍️ Dev Quote of the Day</h2>
